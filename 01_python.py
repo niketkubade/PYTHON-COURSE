@@ -1,0 +1,6 @@
+print("Hello world")
+print("niket",18)
+print(5)
+print(18+20) 
+print(20*5)
+print(500/5)
